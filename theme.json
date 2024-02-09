@@ -1,7 +1,8 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart",
-    "baseTheme": "nodebb-theme-harmony"
+    "id": "nodebb-theme-rogue",
+    "name": "Rogue",
+    "description": "GTARogue theme for NodeBB",
+    "url": "https://github.com/nodebb/nodebb-theme-rogue",
+    "baseTheme": "nodebb-theme-harmony",
+    "screenshot": "https://gtarogue.com/static/rogue.png"
 }
