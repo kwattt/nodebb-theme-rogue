@@ -4,7 +4,7 @@
 >
 	<!-- IMPORT partials/topic/navigator-mobile.tpl -->
 
-	<div class="topbar-nav p-2 text-dark bg-light d-flex rounded-3 fs-4 px-3 justify-content-between align-items-center w-100">
+	<div class="topbar-nav p-2 text-dark bg-light d-flex rounded-3 px-3 justify-content-between align-items-center w-100">
 		<div class="topbar-nav-left d-flex gap-3 align-items-center">
 			<div>
 				<a href="#" role="button" class="nav-link d-flex justify-content-between align-items-center position-relative" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
